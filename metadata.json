@@ -1,0 +1,5 @@
+{
+  "name": "Cooling Merchants - Premium HVAC Services",
+  "description": "Expert AC repair, installation, and maintenance services in Lucknow. Reliable cooling and heating solutions for home and business.",
+  "requestFramePermissions": ["geolocation"]
+}
